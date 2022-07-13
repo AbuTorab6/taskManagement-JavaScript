@@ -1,0 +1,2 @@
+<h1>Task Management by JavaScript</h1>
+<p>In this project you will find a input field where you can write your task name and then if you click on "SUBMIT TASK" button the task will added below the task list by using browser's local storage. There will be a close button on the right side of each task in the tasklist. If you click on the close button the task will deleted. There is a button called "CLEAR TASK" if you click on that it will remove all the task. There is a option for filtering the task. You can filter the task by writing the name of a task.</p>
